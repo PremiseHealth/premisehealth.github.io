@@ -69,6 +69,12 @@ share_reddit: false
 share_stumbleupon: false
 share_hackernews: false
 
+# People who write posts
+authors:
+  kwilson:
+    name: Kerry Wilson
+    github: webdevwilson
+
 text:
   pagination:
     newer: 'Newer'
